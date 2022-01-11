@@ -1,0 +1,29 @@
+body 
+	{
+		background-color: sandybrown;
+	}
+
+h1
+	{
+		font-family: papyrus;
+	}
+
+table, tr, th, td
+	{
+		border: 2px solid black;
+		border-collapse: collapse;
+		padding: 10px;
+		text-align: center;
+	}
+
+tr:hover
+	{
+		background-color: whitesmoke;
+	} 
+
+button
+	{
+		font-size: 20px;
+		font-family: tahoma;
+		background-color: gray;
+	}
